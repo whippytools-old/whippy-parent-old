@@ -12,6 +12,7 @@
 
     <modules>
         <module>tools</module>
+        <module>spawn</module>
     </modules>
 
 </project>

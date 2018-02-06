@@ -20,3 +20,5 @@
 .idea/whippy-parent.iml
 .idea/workspace.xml
 .idea/misc.xml
+.idea/libraries/Maven__com_github_whippytools_bukkit_commands_1_2.xml
+whippy-parent.iml

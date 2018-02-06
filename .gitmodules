@@ -1,3 +1,6 @@
 [submodule "tools"]
 	path = tools
 	url = https://www.github.com/whippytools/whippy-tools.git
+[submodule "spawn"]
+	path = spawn
+	url = git://www.github.com/whippytools/whippy-spawn.git
